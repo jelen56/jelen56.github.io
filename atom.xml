@@ -4,9 +4,9 @@
   <subtitle>jelen</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://jelen56.github.io/jelen/"/>
+  <link href="https://jelen56.github.io/"/>
   <updated>2017-07-09T06:48:52.250Z</updated>
-  <id>https://jelen56.github.io/jelen/</id>
+  <id>https://jelen56.github.io/</id>
   
   <author>
     <name>jelen</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>how to build hexo blog?</title>
-    <link href="https://jelen56.github.io/jelen/2017/07/09/how-to-build-hexo-blog/"/>
-    <id>https://jelen56.github.io/jelen/2017/07/09/how-to-build-hexo-blog/</id>
+    <link href="https://jelen56.github.io/2017/07/09/how-to-build-hexo-blog/"/>
+    <id>https://jelen56.github.io/2017/07/09/how-to-build-hexo-blog/</id>
     <published>2017-07-09T06:47:16.000Z</published>
     <updated>2017-07-09T06:48:52.250Z</updated>
     
